@@ -1,5 +1,7 @@
 /City.class
 /Connection.class
+/ControllerFilter.class
+/ControllerFilterPrediction.class
 /ControllerSearch.class
 /ControllerSearchCity.class
 /Main.class
@@ -7,3 +9,4 @@
 /Observer.class
 /Subject.class
 /View.class
+/Wave.class

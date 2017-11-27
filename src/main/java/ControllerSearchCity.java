@@ -11,6 +11,7 @@ public class ControllerSearchCity implements ControllerSearch{
 	}
 	
 	public void search(Update update){
+		
 		view.sendTypingMessage(update);
 		model.searchCity(update);
 	}
